@@ -6,7 +6,8 @@
   同样有需要springboot+jsp的小伙伴以启发。
   该项目没有使用数据库框架，用的是原生jdbc。
 ## 技术栈
-  * 前端：AdminLTE bootstrap jQuery ajax jsp  
+  * 前端：AdminLTE bootstrap jQuery ajax jsp
+    
   * 后端：java8 springboot2 mvc模式 maven jdbc  
   * 数据库：mysql
 ## 部分功能展示
